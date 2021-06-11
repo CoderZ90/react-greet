@@ -1,12 +1,24 @@
 # Getting Started with Create React App
 
-## Plan of the project -
+## To Install It In Your System -
 
-[+] Create a react App From Scratch
-[+] Show heading if time between 1 to 12 AM
-[+] Afternoon 12PM to 7PM
-[+] Night if 7pm
-[+] Apply CSS Dynamic
+- In your ternminal create a folder with any name open git bash and then type the following commands
+
+      git clone https://github.com/CoderZ90/react-greet.git
+      npm install
+      
+      
+- After installed it Type This -
+
+      npm start 
+
+
+<br />
+<br />
+<br />
+
+
+# You Dont need to read this unless you want to :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
